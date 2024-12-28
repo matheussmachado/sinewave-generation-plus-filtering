@@ -81,4 +81,7 @@ Nas imagens a seguir, é possível visualizar projeto em funcionamento, que é a
 
 Por fim, um vídeo demonstrando o projeto rodando em tempo real:
 
-![mcu-video](https://github.com/matheussmachado/sinewave-generation-plus-filtering/blob/main/mcu-video.mp4)
+https://github.com/user-attachments/assets/e65a8332-0005-4723-843c-bf607c883942
+
+ 
+
