@@ -49,11 +49,11 @@ O desempenho de ambos os filtros foram simulados com sinal a ser reproduzido no 
 
 * Circuito do filtro ativo
 
-![cct_filtro_montado](https://github.com/matheussmachado/sinewave-generation-plus-filtering/blob/main/cct_filtro_montado.png)
+![cct_filtro_montado](https://github.com/matheussmachado/sinewave-generation-plus-filtering/blob/main/cct_filtro_montado.jpeg)
 
 * STM32 MCU + Filtro
 
-![cct_projeto_montado](https://github.com/matheussmachado/sinewave-generation-plus-filtering/blob/main/cct_projeto_montado.png)
+![cct_projeto_montado](https://github.com/matheussmachado/sinewave-generation-plus-filtering/blob/main/cct_projeto_montado.jpeg)
 
 * Pinout utilizado
 
